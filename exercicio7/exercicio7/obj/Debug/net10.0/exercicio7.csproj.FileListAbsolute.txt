@@ -1,0 +1,14 @@
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\bin\Debug\net10.0\exercicio7.exe
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\bin\Debug\net10.0\exercicio7.deps.json
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\bin\Debug\net10.0\exercicio7.runtimeconfig.json
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\bin\Debug\net10.0\exercicio7.dll
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\bin\Debug\net10.0\exercicio7.pdb
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.AssemblyInfoInputs.cache
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.AssemblyInfo.cs
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.dll
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\refint\exercicio7.dll
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.pdb
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\exercicio7.genruntimeconfig.cache
+C:\Users\pp_ri.PEPE_PC1\source\repos\exercicio7\exercicio7\obj\Debug\net10.0\ref\exercicio7.dll
